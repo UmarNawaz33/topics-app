@@ -46,3 +46,12 @@ Make sure you have the following installed:
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/UmarNawaz33/topics-app/blob/main/LICENSE) for more information.
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [React](https://react.dev/)
+* [Vite](https://vite.dev/)
+* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [useState](https://react.dev/reference/react/useState)
+* [props](https://legacy.reactjs.org/docs/components-and-props.html)
